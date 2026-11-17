@@ -1,330 +1,81 @@
-ma_an_phat,ly_do,trang_thai,ma_the,id_tran
-AP0001,"Nhan the do truc tiep o vong 1 (tran TR002), dinh chi thi dau vong 2",Da thi hanh,TP0006,TR008
-AP0002,"Nhan the do truc tiep o vong 2 (tran TR011), dinh chi thi dau vong 3",Da thi hanh,TP0035,TR019
-AP0003,"Nhan the do truc tiep o vong 3 (tran TR018), dinh chi thi dau vong 4",Da thi hanh,TP0051,TR024
-AP0004,"Tich luy du 3 the vang den vong 4 (the TP0059), dinh chi thi dau vong 5",Da thi hanh,TP0059,TR030
-AP0005,"Nhan the do truc tiep o vong 4 (tran TR022), dinh chi thi dau vong 5",Da thi hanh,TP0060,TR030
-AP0006,"Nhan the do truc tiep o vong 4 (tran TR023), dinh chi thi dau vong 5",Da thi hanh,TP0068,TR031
-AP0007,"Nhan the do truc tiep o vong 5 (tran TR030), dinh chi thi dau vong 6",Da thi hanh,TP0097,TR036
-AP0008,"Tich luy du 3 the vang den vong 5 (the TP0104), dinh chi thi dau vong 6",Da thi hanh,TP0104,TR038
-AP0009,"Nhan the do truc tiep o vong 7 (tran TR044), dinh chi thi dau vong 8",Da thi hanh,TP0136,TR052
-AP0010,"Tich luy du 3 the vang den vong 8 (the TP0160), dinh chi thi dau vong 9",Da thi hanh,TP0160,TR060
-AP0011,"Nhan the do truc tiep o vong 8 (tran TR056), dinh chi thi dau vong 9",Da thi hanh,TP0167,TR062
-AP0012,"Tich luy du 3 the vang den vong 9 (the TP0174), dinh chi thi dau vong 10",Da thi hanh,TP0174,TR066
-AP0013,"Tich luy du 3 the vang den vong 9 (the TP0184), dinh chi thi dau vong 10",Da thi hanh,TP0184,TR067
-AP0014,"Tich luy du 3 the vang den vong 10 (the TP0191), dinh chi thi dau vong 11",Da thi hanh,TP0191,TR072
-AP0015,"Tich luy du 3 the vang den vong 10 (the TP0195), dinh chi thi dau vong 11",Da thi hanh,TP0195,TR073
-AP0016,"Nhan the do truc tiep o vong 10 (tran TR066), dinh chi thi dau vong 11",Da thi hanh,TP0197,TR072
-AP0017,"Nhan the do truc tiep o vong 10 (tran TR068), dinh chi thi dau vong 11",Da thi hanh,TP0207,TR074
-AP0018,"Tich luy du 3 the vang den vong 10 (the TP0216), dinh chi thi dau vong 11",Da thi hanh,TP0216,TR077
-AP0019,"Nhan the do truc tiep o vong 11 (tran TR071), dinh chi thi dau vong 12",Da thi hanh,TP0220,TR079
-AP0020,"Tich luy du 3 the vang den vong 11 (the TP0228), dinh chi thi dau vong 12",Da thi hanh,TP0228,TR083
-AP0021,"Tich luy du 3 the vang den vong 11 (the TP0231), dinh chi thi dau vong 12",Da thi hanh,TP0231,TR084
-AP0022,"Tich luy du 3 the vang den vong 11 (the TP0232), dinh chi thi dau vong 12",Da thi hanh,TP0232,TR082
-AP0023,"Tich luy du 3 the vang den vong 12 (the TP0237), dinh chi thi dau vong 13",Da thi hanh,TP0237,TR085
-AP0024,"Tich luy du 3 the vang den vong 12 (the TP0238), dinh chi thi dau vong 13",Da thi hanh,TP0238,TR087
-AP0025,"Tich luy du 3 the vang den vong 12 (the TP0241), dinh chi thi dau vong 13",Da thi hanh,TP0241,TR089
-AP0026,"Tich luy du 3 the vang den vong 12 (the TP0242), dinh chi thi dau vong 13",Da thi hanh,TP0242,TR089
-AP0027,"Tich luy du 3 the vang den vong 12 (the TP0247), dinh chi thi dau vong 13",Da thi hanh,TP0247,TR089
-AP0028,"Tich luy du 3 the vang den vong 12 (the TP0248), dinh chi thi dau vong 13",Da thi hanh,TP0248,TR091
-AP0029,"Tich luy du 3 the vang den vong 12 (the TP0249), dinh chi thi dau vong 13",Da thi hanh,TP0249,TR091
-AP0030,"Tich luy du 3 the vang den vong 13 (the TP0253), dinh chi thi dau vong 14",Da thi hanh,TP0253,TR093
-AP0031,"Tich luy du 3 the vang den vong 13 (the TP0254), dinh chi thi dau vong 14",Da thi hanh,TP0254,TR093
-AP0032,"Nhan the do truc tiep o vong 13 (tran TR085), dinh chi thi dau vong 14",Da thi hanh,TP0255,TR093
-AP0033,"Nhan the do truc tiep o vong 13 (tran TR086), dinh chi thi dau vong 14",Da thi hanh,TP0256,TR094
-AP0034,"Tich luy du 3 the vang den vong 14 (the TP0272), dinh chi thi dau vong 15",Da thi hanh,TP0272,TR099
-AP0035,"Tich luy du 3 the vang den vong 14 (the TP0275), dinh chi thi dau vong 15",Da thi hanh,TP0275,TR100
-AP0036,"Tich luy du 3 the vang den vong 14 (the TP0276), dinh chi thi dau vong 15",Da thi hanh,TP0276,TR100
-AP0037,"Tich luy du 3 the vang den vong 14 (the TP0287), dinh chi thi dau vong 15",Da thi hanh,TP0287,TR105
-AP0038,"Tich luy du 3 the vang den vong 15 (the TP0293), dinh chi thi dau vong 16",Da thi hanh,TP0293,TR106
-AP0039,"Tich luy du 3 the vang den vong 15 (the TP0294), dinh chi thi dau vong 16",Da thi hanh,TP0294,TR107
-AP0040,"Nhan the do truc tiep o vong 15 (tran TR100), dinh chi thi dau vong 16",Da thi hanh,TP0298,TR106
-AP0041,"Nhan the do truc tiep o vong 15 (tran TR101), dinh chi thi dau vong 16",Da thi hanh,TP0300,TR107
-AP0042,"Tich luy du 3 the vang den vong 15 (the TP0305), dinh chi thi dau vong 16",Da thi hanh,TP0305,TR112
-AP0043,"Tich luy du 3 the vang den vong 15 (the TP0308), dinh chi thi dau vong 16",Da thi hanh,TP0308,TR112
-AP0044,"Tich luy du 3 the vang den vong 16 (the TP0318), dinh chi thi dau vong 17",Da thi hanh,TP0318,TR115
-AP0045,"Tich luy du 3 the vang den vong 16 (the TP0320), dinh chi thi dau vong 17",Da thi hanh,TP0320,TR115
-AP0046,"Tich luy du 3 the vang den vong 16 (the TP0324), dinh chi thi dau vong 17",Da thi hanh,TP0324,TR116
-AP0047,"Tich luy du 3 the vang den vong 17 (the TP0338), dinh chi thi dau vong 18",Da thi hanh,TP0338,TR123
-AP0048,"Tich luy du 3 the vang den vong 18 (the TP0355), dinh chi thi dau vong 19",Da thi hanh,TP0355,TR127
-AP0049,"Tich luy du 3 the vang den vong 18 (the TP0357), dinh chi thi dau vong 19",Da thi hanh,TP0357,TR127
-AP0050,"Tich luy du 3 the vang den vong 18 (the TP0365), dinh chi thi dau vong 19",Da thi hanh,TP0365,TR129
-AP0051,"Nhan the do truc tiep o vong 18 (tran TR123), dinh chi thi dau vong 19",Da thi hanh,TP0366,TR129
-AP0052,"Tich luy du 3 the vang den vong 18 (the TP0368), dinh chi thi dau vong 19",Da thi hanh,TP0368,TR131
-AP0053,"Tich luy du 3 the vang den vong 18 (the TP0369), dinh chi thi dau vong 19",Da thi hanh,TP0369,TR130
-AP0054,"Tich luy du 3 the vang den vong 18 (the TP0371), dinh chi thi dau vong 19",Da thi hanh,TP0371,TR130
-AP0055,"Nhan the do truc tiep o vong 18 (tran TR124), dinh chi thi dau vong 19",Da thi hanh,TP0373,TR132
-AP0056,"Nhan the do truc tiep o vong 19 (tran TR128), dinh chi thi dau vong 20",Da thi hanh,TP0385,TR136
-AP0057,"Tich luy du 3 the vang den vong 19 (the TP0389), dinh chi thi dau vong 20",Da thi hanh,TP0389,TR138
-AP0058,"Tich luy du 3 the vang den vong 19 (the TP0397), dinh chi thi dau vong 20",Da thi hanh,TP0397,TR140
-AP0059,"Nhan the do truc tiep o vong 19 (tran TR132), dinh chi thi dau vong 20",Da thi hanh,TP0398,TR140
-AP0060,"Tich luy du 3 the vang den vong 19 (the TP0399), dinh chi thi dau vong 20",Da thi hanh,TP0399,TR138
-AP0061,"Tich luy du 3 the vang den vong 19 (the TP0400), dinh chi thi dau vong 20",Da thi hanh,TP0400,TR138
-AP0062,"Tich luy du 3 the vang den vong 19 (the TP0401), dinh chi thi dau vong 20",Da thi hanh,TP0401,TR140
-AP0063,"Tich luy du 3 the vang den vong 20 (the TP0407), dinh chi thi dau vong 21",Da thi hanh,TP0407,TR141
-AP0064,"Tich luy du 3 the vang den vong 20 (the TP0415), dinh chi thi dau vong 21",Da thi hanh,TP0415,TR144
-AP0065,"Tich luy du 3 the vang den vong 20 (the TP0417), dinh chi thi dau vong 21",Da thi hanh,TP0417,TR144
-AP0066,"Tich luy du 3 the vang den vong 20 (the TP0420), dinh chi thi dau vong 21",Da thi hanh,TP0420,TR145
-AP0067,"Tich luy du 3 the vang den vong 21 (the TP0431), dinh chi thi dau vong 22",Da thi hanh,TP0431,TR148
-AP0068,"Tich luy du 3 the vang den vong 21 (the TP0432), dinh chi thi dau vong 22",Da thi hanh,TP0432,TR151
-AP0069,"Tich luy du 3 the vang den vong 21 (the TP0433), dinh chi thi dau vong 22",Da thi hanh,TP0433,TR151
-AP0070,"Tich luy du 3 the vang den vong 21 (the TP0435), dinh chi thi dau vong 22",Da thi hanh,TP0435,TR152
-AP0071,"Tich luy du 3 the vang den vong 21 (the TP0436), dinh chi thi dau vong 22",Da thi hanh,TP0436,TR152
-AP0072,"Tich luy du 3 the vang den vong 21 (the TP0437), dinh chi thi dau vong 22",Da thi hanh,TP0437,TR150
-AP0073,"Tich luy du 3 the vang den vong 21 (the TP0438), dinh chi thi dau vong 22",Da thi hanh,TP0438,TR150
-AP0074,"Tich luy du 3 the vang den vong 21 (the TP0439), dinh chi thi dau vong 22",Da thi hanh,TP0439,TR153
-AP0075,"Tich luy du 3 the vang den vong 21 (the TP0445), dinh chi thi dau vong 22",Da thi hanh,TP0445,TR153
-AP0076,"Tich luy du 3 the vang den vong 22 (the TP0450), dinh chi thi dau vong 23",Da thi hanh,TP0450,TR155
-AP0077,"Tich luy du 3 the vang den vong 22 (the TP0461), dinh chi thi dau vong 23",Da thi hanh,TP0461,TR161
-AP0078,"Tich luy du 3 the vang den vong 23 (the TP0465), dinh chi thi dau vong 24",Da thi hanh,TP0465,TR162
-AP0079,"Tich luy du 3 the vang den vong 23 (the TP0466), dinh chi thi dau vong 24",Da thi hanh,TP0466,TR163
-AP0080,"Tich luy du 3 the vang den vong 23 (the TP0472), dinh chi thi dau vong 24",Da thi hanh,TP0472,TR165
-AP0081,"Tich luy du 3 the vang den vong 23 (the TP0479), dinh chi thi dau vong 24",Da thi hanh,TP0479,TR167
-AP0082,"Tich luy du 3 the vang den vong 23 (the TP0481), dinh chi thi dau vong 24",Da thi hanh,TP0481,TR165
-AP0083,"Nhan the do truc tiep o vong 23 (tran TR159), dinh chi thi dau vong 24",Da thi hanh,TP0482,TR165
-AP0084,"Tich luy du 3 the vang den vong 24 (the TP0487), dinh chi thi dau vong 25",Da thi hanh,TP0487,TR170
-AP0085,"Nhan the do truc tiep o vong 24 (tran TR162), dinh chi thi dau vong 25",Da thi hanh,TP0488,TR170
-AP0086,"Tich luy du 3 the vang den vong 24 (the TP0490), dinh chi thi dau vong 25",Da thi hanh,TP0490,TR170
-AP0087,"Tich luy du 3 the vang den vong 24 (the TP0492), dinh chi thi dau vong 25",Da thi hanh,TP0492,TR171
-AP0088,"Tich luy du 3 the vang den vong 24 (the TP0494), dinh chi thi dau vong 25",Da thi hanh,TP0494,TR172
-AP0089,"Tich luy du 3 the vang den vong 24 (the TP0498), dinh chi thi dau vong 25",Da thi hanh,TP0498,TR174
-AP0090,"Tich luy du 3 the vang den vong 25 (the TP0500), dinh chi thi dau vong 26",Da thi hanh,TP0500,TR177
-AP0091,"Nhan the do truc tiep o vong 25 (tran TR169), dinh chi thi dau vong 26",Da thi hanh,TP0501,TR177
-AP0092,"Tich luy du 3 the vang den vong 25 (the TP0502), dinh chi thi dau vong 26",Da thi hanh,TP0502,TR178
-AP0093,"Tich luy du 3 the vang den vong 25 (the TP0504), dinh chi thi dau vong 26",Da thi hanh,TP0504,TR179
-AP0094,"Tich luy du 3 the vang den vong 25 (the TP0505), dinh chi thi dau vong 26",Da thi hanh,TP0505,TR179
-AP0095,"Tich luy du 3 the vang den vong 25 (the TP0508), dinh chi thi dau vong 26",Da thi hanh,TP0508,TR180
-AP0096,"Tich luy du 3 the vang den vong 25 (the TP0510), dinh chi thi dau vong 26",Da thi hanh,TP0510,TR178
-AP0097,"Tich luy du 3 the vang den vong 25 (the TP0511), dinh chi thi dau vong 26",Da thi hanh,TP0511,TR178
-AP0098,"Tich luy du 3 the vang den vong 25 (the TP0513), dinh chi thi dau vong 26",Da thi hanh,TP0513,TR182
-AP0099,"Nhan the do truc tiep o vong 25 (tran TR174), dinh chi thi dau vong 26",Da thi hanh,TP0514,TR182
-AP0100,"Tich luy du 3 the vang den vong 25 (the TP0516), dinh chi thi dau vong 26",Da thi hanh,TP0516,TR182
-AP0101,"Tich luy du 3 the vang den vong 25 (the TP0517), dinh chi thi dau vong 26",Da thi hanh,TP0517,TR181
-AP0102,"Nhan the do truc tiep o vong 1 (tran TR186), dinh chi thi dau vong 2",Da thi hanh,TP0547,TR192
-AP0103,"Nhan the do truc tiep o vong 1 (tran TR188), dinh chi thi dau vong 2",Da thi hanh,TP0552,TR194
-AP0104,"Nhan the do truc tiep o vong 2 (tran TR195), dinh chi thi dau vong 3",Da thi hanh,TP0577,TR203
-AP0105,"Tich luy du 3 the vang den vong 5 (the TP0629), dinh chi thi dau vong 6",Da thi hanh,TP0629,TR219
-AP0106,"Nhan the do truc tiep o vong 6 (tran TR219), dinh chi thi dau vong 7",Da thi hanh,TP0652,TR225
-AP0107,"Nhan the do truc tiep o vong 6 (tran TR219), dinh chi thi dau vong 7",Da thi hanh,TP0654,TR227
-AP0108,"Tich luy du 3 the vang den vong 7 (the TP0674), dinh chi thi dau vong 8",Da thi hanh,TP0674,TR232
-AP0109,"Tich luy du 3 the vang den vong 7 (the TP0676), dinh chi thi dau vong 8",Da thi hanh,TP0676,TR233
-AP0110,"Nhan the do truc tiep o vong 7 (tran TR227), dinh chi thi dau vong 8",Da thi hanh,TP0677,TR233
-AP0111,"Tich luy du 3 the vang den vong 7 (the TP0680), dinh chi thi dau vong 8",Da thi hanh,TP0680,TR237
-AP0112,"Tich luy du 3 the vang den vong 8 (the TP0695), dinh chi thi dau vong 9",Da thi hanh,TP0695,TR242
-AP0113,"Nhan the do truc tiep o vong 8 (tran TR237), dinh chi thi dau vong 9",Da thi hanh,TP0703,TR245
-AP0114,"Tich luy du 3 the vang den vong 8 (the TP0705), dinh chi thi dau vong 9",Da thi hanh,TP0705,TR244
-AP0115,"Tich luy du 3 the vang den vong 9 (the TP0713), dinh chi thi dau vong 10",Da thi hanh,TP0713,TR246
-AP0116,"Tich luy du 3 the vang den vong 9 (the TP0715), dinh chi thi dau vong 10",Da thi hanh,TP0715,TR247
-AP0117,"Tich luy du 3 the vang den vong 9 (the TP0717), dinh chi thi dau vong 10",Da thi hanh,TP0717,TR250
-AP0118,"Tich luy du 3 the vang den vong 9 (the TP0719), dinh chi thi dau vong 10",Da thi hanh,TP0719,TR248
-AP0119,"Nhan the do truc tiep o vong 10 (tran TR248), dinh chi thi dau vong 11",Da thi hanh,TP0738,TR256
-AP0120,"Nhan the do truc tiep o vong 10 (tran TR250), dinh chi thi dau vong 11",Da thi hanh,TP0744,TR256
-AP0121,"Tich luy du 3 the vang den vong 11 (the TP0756), dinh chi thi dau vong 12",Da thi hanh,TP0756,TR260
-AP0122,"Tich luy du 3 the vang den vong 11 (the TP0762), dinh chi thi dau vong 12",Da thi hanh,TP0762,TR264
-AP0123,"Tich luy du 3 the vang den vong 11 (the TP0770), dinh chi thi dau vong 12",Da thi hanh,TP0770,TR264
-AP0124,"Tich luy du 3 the vang den vong 11 (the TP0772), dinh chi thi dau vong 12",Da thi hanh,TP0772,TR264
-AP0125,"Tich luy du 3 the vang den vong 12 (the TP0784), dinh chi thi dau vong 13",Da thi hanh,TP0784,TR269
-AP0126,"Tich luy du 3 the vang den vong 12 (the TP0785), dinh chi thi dau vong 13",Da thi hanh,TP0785,TR269
-AP0127,"Nhan the do truc tiep o vong 12 (tran TR263), dinh chi thi dau vong 13",Da thi hanh,TP0786,TR269
-AP0128,"Tich luy du 3 the vang den vong 12 (the TP0789), dinh chi thi dau vong 13",Da thi hanh,TP0789,TR271
-AP0129,"Tich luy du 3 the vang den vong 12 (the TP0793), dinh chi thi dau vong 13",Da thi hanh,TP0793,TR272
-AP0130,"Tich luy du 3 the vang den vong 12 (the TP0801), dinh chi thi dau vong 13",Da thi hanh,TP0801,TR273
-AP0131,"Tich luy du 3 the vang den vong 13 (the TP0803), dinh chi thi dau vong 14",Da thi hanh,TP0803,TR274
-AP0132,"Tich luy du 3 the vang den vong 13 (the TP0805), dinh chi thi dau vong 14",Da thi hanh,TP0805,TR277
-AP0133,"Tich luy du 3 the vang den vong 14 (the TP0823), dinh chi thi dau vong 15",Da thi hanh,TP0823,TR283
-AP0134,"Tich luy du 3 the vang den vong 14 (the TP0827), dinh chi thi dau vong 15",Da thi hanh,TP0827,TR283
-AP0135,"Nhan the do truc tiep o vong 14 (tran TR277), dinh chi thi dau vong 15",Da thi hanh,TP0828,TR283
-AP0136,"Nhan the do truc tiep o vong 14 (tran TR277), dinh chi thi dau vong 15",Da thi hanh,TP0830,TR285
-AP0137,"Tich luy du 3 the vang den vong 14 (the TP0831), dinh chi thi dau vong 15",Da thi hanh,TP0831,TR284
-AP0138,"Tich luy du 3 the vang den vong 15 (the TP0854), dinh chi thi dau vong 16",Da thi hanh,TP0854,TR292
-AP0139,"Tich luy du 3 the vang den vong 15 (the TP0857), dinh chi thi dau vong 16",Da thi hanh,TP0857,TR294
-AP0140,"Tich luy du 3 the vang den vong 16 (the TP0860), dinh chi thi dau vong 17",Da thi hanh,TP0860,TR296
-AP0141,"Nhan the do truc tiep o vong 16 (tran TR290), dinh chi thi dau vong 17",Da thi hanh,TP0865,TR296
-AP0142,"Tich luy du 3 the vang den vong 16 (the TP0868), dinh chi thi dau vong 17",Da thi hanh,TP0868,TR297
-AP0143,"Tich luy du 3 the vang den vong 16 (the TP0871), dinh chi thi dau vong 17",Da thi hanh,TP0871,TR300
-AP0144,"Tich luy du 3 the vang den vong 16 (the TP0879), dinh chi thi dau vong 17",Da thi hanh,TP0879,TR301
-AP0145,"Tich luy du 3 the vang den vong 17 (the TP0882), dinh chi thi dau vong 18",Da thi hanh,TP0882,TR304
-AP0146,"Tich luy du 3 the vang den vong 17 (the TP0886), dinh chi thi dau vong 18",Da thi hanh,TP0886,TR305
-AP0147,"Nhan the do truc tiep o vong 17 (tran TR299), dinh chi thi dau vong 18",Da thi hanh,TP0889,TR305
-AP0148,"Tich luy du 3 the vang den vong 17 (the TP0890), dinh chi thi dau vong 18",Da thi hanh,TP0890,TR308
-AP0149,"Tich luy du 3 the vang den vong 17 (the TP0893), dinh chi thi dau vong 18",Da thi hanh,TP0893,TR306
-AP0150,"Tich luy du 3 the vang den vong 17 (the TP0894), dinh chi thi dau vong 18",Da thi hanh,TP0894,TR306
-AP0151,"Tich luy du 3 the vang den vong 18 (the TP0900), dinh chi thi dau vong 19",Da thi hanh,TP0900,TR311
-AP0152,"Tich luy du 3 the vang den vong 18 (the TP0903), dinh chi thi dau vong 19",Da thi hanh,TP0903,TR312
-AP0153,"Nhan the do truc tiep o vong 18 (tran TR305), dinh chi thi dau vong 19",Da thi hanh,TP0906,TR313
-AP0154,"Nhan the do truc tiep o vong 18 (tran TR306), dinh chi thi dau vong 19",Da thi hanh,TP0907,TR312
-AP0155,"Tich luy du 3 the vang den vong 18 (the TP0908), dinh chi thi dau vong 19",Da thi hanh,TP0908,TR314
-AP0156,"Tich luy du 3 the vang den vong 18 (the TP0909), dinh chi thi dau vong 19",Da thi hanh,TP0909,TR313
-AP0157,"Nhan the do truc tiep o vong 18 (tran TR307), dinh chi thi dau vong 19",Da thi hanh,TP0910,TR313
-AP0158,"Tich luy du 3 the vang den vong 18 (the TP0913), dinh chi thi dau vong 19",Da thi hanh,TP0913,TR315
-AP0159,"Tich luy du 3 the vang den vong 19 (the TP0916), dinh chi thi dau vong 20",Da thi hanh,TP0916,TR316
-AP0160,"Tich luy du 3 the vang den vong 19 (the TP0922), dinh chi thi dau vong 20",Da thi hanh,TP0922,TR319
-AP0161,"Nhan the do truc tiep o vong 19 (tran TR311), dinh chi thi dau vong 20",Da thi hanh,TP0923,TR319
-AP0162,"Tich luy du 3 the vang den vong 19 (the TP0924), dinh chi thi dau vong 20",Da thi hanh,TP0924,TR317
-AP0163,"Tich luy du 3 the vang den vong 19 (the TP0930), dinh chi thi dau vong 20",Da thi hanh,TP0930,TR320
-AP0164,"Tich luy du 3 the vang den vong 19 (the TP0931), dinh chi thi dau vong 20",Da thi hanh,TP0931,TR320
-AP0165,"Nhan the do truc tiep o vong 20 (tran TR316), dinh chi thi dau vong 21",Da thi hanh,TP0937,TR323
-AP0166,"Tich luy du 3 the vang den vong 20 (the TP0942), dinh chi thi dau vong 21",Da thi hanh,TP0942,TR326
-AP0167,"Tich luy du 3 the vang den vong 20 (the TP0945), dinh chi thi dau vong 21",Da thi hanh,TP0945,TR325
-AP0168,"Tich luy du 3 the vang den vong 20 (the TP0946), dinh chi thi dau vong 21",Da thi hanh,TP0946,TR325
-AP0169,"Nhan the do truc tiep o vong 20 (tran TR319), dinh chi thi dau vong 21",Da thi hanh,TP0947,TR327
-AP0170,"Nhan the do truc tiep o vong 20 (tran TR320), dinh chi thi dau vong 21",Da thi hanh,TP0950,TR326
-AP0171,"Tich luy du 3 the vang den vong 20 (the TP0951), dinh chi thi dau vong 21",Da thi hanh,TP0951,TR328
-AP0172,"Tich luy du 3 the vang den vong 20 (the TP0952), dinh chi thi dau vong 21",Da thi hanh,TP0952,TR327
-AP0173,"Tich luy du 3 the vang den vong 20 (the TP0954), dinh chi thi dau vong 21",Da thi hanh,TP0954,TR329
-AP0174,"Tich luy du 3 the vang den vong 20 (the TP0956), dinh chi thi dau vong 21",Da thi hanh,TP0956,TR328
-AP0175,"Tich luy du 3 the vang den vong 21 (the TP0959), dinh chi thi dau vong 22",Da thi hanh,TP0959,TR331
-AP0176,"Tich luy du 3 the vang den vong 21 (the TP0962), dinh chi thi dau vong 22",Da thi hanh,TP0962,TR333
-AP0177,"Tich luy du 3 the vang den vong 21 (the TP0966), dinh chi thi dau vong 22",Da thi hanh,TP0966,TR334
-AP0178,"Tich luy du 3 the vang den vong 21 (the TP0967), dinh chi thi dau vong 22",Da thi hanh,TP0967,TR332
-AP0179,"Tich luy du 3 the vang den vong 21 (the TP0972), dinh chi thi dau vong 22",Da thi hanh,TP0972,TR336
-AP0180,"Nhan the do truc tiep o vong 21 (tran TR329), dinh chi thi dau vong 22",Da thi hanh,TP0977,TR336
-AP0181,"Tich luy du 3 the vang den vong 21 (the TP0978), dinh chi thi dau vong 22",Da thi hanh,TP0978,TR335
-AP0182,"Tich luy du 3 the vang den vong 22 (the TP0980), dinh chi thi dau vong 23",Da thi hanh,TP0980,TR337
-AP0183,"Tich luy du 3 the vang den vong 22 (the TP0982), dinh chi thi dau vong 23",Da thi hanh,TP0982,TR339
-AP0184,"Tich luy du 3 the vang den vong 22 (the TP0986), dinh chi thi dau vong 23",Da thi hanh,TP0986,TR339
-AP0185,"Tich luy du 3 the vang den vong 22 (the TP0987), dinh chi thi dau vong 23",Da thi hanh,TP0987,TR341
-AP0186,"Tich luy du 3 the vang den vong 22 (the TP0988), dinh chi thi dau vong 23",Da thi hanh,TP0988,TR341
-AP0187,"Tich luy du 3 the vang den vong 22 (the TP0991), dinh chi thi dau vong 23",Da thi hanh,TP0991,TR342
-AP0188,"Tich luy du 3 the vang den vong 22 (the TP0993), dinh chi thi dau vong 23",Da thi hanh,TP0993,TR343
-AP0189,"Tich luy du 3 the vang den vong 22 (the TP0997), dinh chi thi dau vong 23",Da thi hanh,TP0997,TR343
-AP0190,"Tich luy du 3 the vang den vong 23 (the TP1009), dinh chi thi dau vong 24",Da thi hanh,TP1009,TR347
-AP0191,"Tich luy du 3 the vang den vong 23 (the TP1013), dinh chi thi dau vong 24",Da thi hanh,TP1013,TR345
-AP0192,"Tich luy du 3 the vang den vong 23 (the TP1014), dinh chi thi dau vong 24",Da thi hanh,TP1014,TR348
-AP0193,"Tich luy du 3 the vang den vong 23 (the TP1018), dinh chi thi dau vong 24",Da thi hanh,TP1018,TR346
-AP0194,"Tich luy du 3 the vang den vong 23 (the TP1023), dinh chi thi dau vong 24",Da thi hanh,TP1023,TR347
-AP0195,"Tich luy du 3 the vang den vong 23 (the TP1024), dinh chi thi dau vong 24",Da thi hanh,TP1024,TR350
-AP0196,"Tich luy du 3 the vang den vong 23 (the TP1026), dinh chi thi dau vong 24",Da thi hanh,TP1026,TR350
-AP0197,"Nhan the do truc tiep o vong 23 (tran TR343), dinh chi thi dau vong 24",Da thi hanh,TP1029,TR350
-AP0198,"Tich luy du 3 the vang den vong 24 (the TP1038), dinh chi thi dau vong 25",Da thi hanh,TP1038,TR352
-AP0199,"Tich luy du 3 the vang den vong 24 (the TP1041), dinh chi thi dau vong 25",Da thi hanh,TP1041,TR355
-AP0200,"Tich luy du 3 the vang den vong 24 (the TP1042), dinh chi thi dau vong 25",Da thi hanh,TP1042,TR356
-AP0201,"Tich luy du 3 the vang den vong 24 (the TP1043), dinh chi thi dau vong 25",Da thi hanh,TP1043,TR356
-AP0202,"Tich luy du 3 the vang den vong 24 (the TP1044), dinh chi thi dau vong 25",Da thi hanh,TP1044,TR355
-AP0203,"Tich luy du 3 the vang den vong 24 (the TP1047), dinh chi thi dau vong 25",Da thi hanh,TP1047,TR356
-AP0204,"Tich luy du 3 the vang den vong 25 (the TP1050), dinh chi thi dau vong 26",Da thi hanh,TP1050,TR358
-AP0205,"Tich luy du 3 the vang den vong 25 (the TP1052), dinh chi thi dau vong 26",Da thi hanh,TP1052,TR359
-AP0206,"Tich luy du 3 the vang den vong 25 (the TP1055), dinh chi thi dau vong 26",Da thi hanh,TP1055,TR361
-AP0207,"Tich luy du 3 the vang den vong 25 (the TP1056), dinh chi thi dau vong 26",Da thi hanh,TP1056,TR361
-AP0208,"Tich luy du 3 the vang den vong 25 (the TP1059), dinh chi thi dau vong 26",Da thi hanh,TP1059,TR360
-AP0209,"Tich luy du 3 the vang den vong 25 (the TP1065), dinh chi thi dau vong 26",Da thi hanh,TP1065,TR364
-AP0210,"Nhan the do truc tiep o vong 1 (tran TR365), dinh chi thi dau vong 2",Da thi hanh,TP1093,TR372
-AP0211,"Nhan the do truc tiep o vong 1 (tran TR370), dinh chi thi dau vong 2",Da thi hanh,TP1114,TR376
-AP0212,"Nhan the do truc tiep o vong 2 (tran TR374), dinh chi thi dau vong 3",Da thi hanh,TP1128,TR382
-AP0213,"Nhan the do truc tiep o vong 2 (tran TR378), dinh chi thi dau vong 3",Da thi hanh,TP1145,TR384
-AP0214,"Nhan the do truc tiep o vong 3 (tran TR382), dinh chi thi dau vong 4",Da thi hanh,TP1161,TR388
-AP0215,"Nhan the do truc tiep o vong 3 (tran TR383), dinh chi thi dau vong 4",Da thi hanh,TP1163,TR391
-AP0216,"Nhan the do truc tiep o vong 4 (tran TR386), dinh chi thi dau vong 5",Da thi hanh,TP1170,TR394
-AP0217,"Nhan the do truc tiep o vong 4 (tran TR390), dinh chi thi dau vong 5",Da thi hanh,TP1182,TR396
-AP0218,"Tich luy du 3 the vang den vong 4 (the TP1188), dinh chi thi dau vong 5",Da thi hanh,TP1188,TR399
-AP0219,"Tich luy du 3 the vang den vong 4 (the TP1191), dinh chi thi dau vong 5",Da thi hanh,TP1191,TR398
-AP0220,"Nhan the do truc tiep o vong 4 (tran TR392), dinh chi thi dau vong 5",Da thi hanh,TP1197,TR399
-AP0221,"Nhan the do truc tiep o vong 5 (tran TR398), dinh chi thi dau vong 6",Da thi hanh,TP1213,TR406
-AP0222,"Nhan the do truc tiep o vong 5 (tran TR399), dinh chi thi dau vong 6",Da thi hanh,TP1218,TR405
-AP0223,"Tich luy du 3 the vang den vong 7 (the TP1246), dinh chi thi dau vong 8",Da thi hanh,TP1246,TR414
-AP0224,"Nhan the do truc tiep o vong 7 (tran TR407), dinh chi thi dau vong 8",Da thi hanh,TP1250,TR415
-AP0225,"Tich luy du 3 the vang den vong 7 (the TP1254), dinh chi thi dau vong 8",Da thi hanh,TP1254,TR417
-AP0226,"Tich luy du 3 the vang den vong 7 (the TP1255), dinh chi thi dau vong 8",Da thi hanh,TP1255,TR415
-AP0227,"Tich luy du 3 the vang den vong 8 (the TP1274), dinh chi thi dau vong 9",Da thi hanh,TP1274,TR421
-AP0228,"Tich luy du 3 the vang den vong 8 (the TP1293), dinh chi thi dau vong 9",Da thi hanh,TP1293,TR426
-AP0229,"Tich luy du 3 the vang den vong 9 (the TP1298), dinh chi thi dau vong 10",Da thi hanh,TP1298,TR429
-AP0230,"Nhan the do truc tiep o vong 9 (tran TR425), dinh chi thi dau vong 10",Da thi hanh,TP1310,TR433
-AP0231,"Tich luy du 3 the vang den vong 9 (the TP1315), dinh chi thi dau vong 10",Da thi hanh,TP1315,TR434
-AP0232,"Tich luy du 3 the vang den vong 10 (the TP1319), dinh chi thi dau vong 11",Da thi hanh,TP1319,TR436
-AP0233,"Tich luy du 3 the vang den vong 10 (the TP1320), dinh chi thi dau vong 11",Da thi hanh,TP1320,TR436
-AP0234,"Tich luy du 3 the vang den vong 10 (the TP1326), dinh chi thi dau vong 11",Da thi hanh,TP1326,TR438
-AP0235,"Tich luy du 3 the vang den vong 10 (the TP1331), dinh chi thi dau vong 11",Da thi hanh,TP1331,TR439
-AP0236,"Nhan the do truc tiep o vong 10 (tran TR434), dinh chi thi dau vong 11",Da thi hanh,TP1336,TR440
-AP0237,"Nhan the do truc tiep o vong 10 (tran TR434), dinh chi thi dau vong 11",Da thi hanh,TP1338,TR441
-AP0238,"Tich luy du 3 the vang den vong 11 (the TP1340), dinh chi thi dau vong 12",Da thi hanh,TP1340,TR442
-AP0239,"Tich luy du 3 the vang den vong 11 (the TP1343), dinh chi thi dau vong 12",Da thi hanh,TP1343,TR444
-AP0240,"Tich luy du 3 the vang den vong 11 (the TP1353), dinh chi thi dau vong 12",Da thi hanh,TP1353,TR446
-AP0241,"Tich luy du 3 the vang den vong 12 (the TP1367), dinh chi thi dau vong 13",Da thi hanh,TP1367,TR451
-AP0242,"Nhan the do truc tiep o vong 12 (tran TR443), dinh chi thi dau vong 13",Da thi hanh,TP1368,TR451
-AP0243,"Tich luy du 3 the vang den vong 12 (the TP1369), dinh chi thi dau vong 13",Da thi hanh,TP1369,TR450
-AP0244,"Tich luy du 3 the vang den vong 12 (the TP1374), dinh chi thi dau vong 13",Da thi hanh,TP1374,TR454
-AP0245,"Tich luy du 3 the vang den vong 12 (the TP1375), dinh chi thi dau vong 13",Da thi hanh,TP1375,TR454
-AP0246,"Tich luy du 3 the vang den vong 12 (the TP1376), dinh chi thi dau vong 13",Da thi hanh,TP1376,TR453
-AP0247,"Tich luy du 3 the vang den vong 12 (the TP1380), dinh chi thi dau vong 13",Da thi hanh,TP1380,TR454
-AP0248,"Tich luy du 3 the vang den vong 12 (the TP1381), dinh chi thi dau vong 13",Da thi hanh,TP1381,TR455
-AP0249,"Tich luy du 3 the vang den vong 13 (the TP1384), dinh chi thi dau vong 14",Da thi hanh,TP1384,TR456
-AP0250,"Tich luy du 3 the vang den vong 13 (the TP1385), dinh chi thi dau vong 14",Da thi hanh,TP1385,TR458
-AP0251,"Tich luy du 3 the vang den vong 13 (the TP1387), dinh chi thi dau vong 14",Da thi hanh,TP1387,TR458
-AP0252,"Nhan the do truc tiep o vong 13 (tran TR453), dinh chi thi dau vong 14",Da thi hanh,TP1393,TR459
-AP0253,"Tich luy du 3 the vang den vong 14 (the TP1401), dinh chi thi dau vong 15",Da thi hanh,TP1401,TR463
-AP0254,"Tich luy du 3 the vang den vong 14 (the TP1402), dinh chi thi dau vong 15",Da thi hanh,TP1402,TR463
-AP0255,"Tich luy du 3 the vang den vong 14 (the TP1404), dinh chi thi dau vong 15",Da thi hanh,TP1404,TR463
-AP0256,"Tich luy du 3 the vang den vong 14 (the TP1407), dinh chi thi dau vong 15",Da thi hanh,TP1407,TR465
-AP0257,"Tich luy du 3 the vang den vong 14 (the TP1412), dinh chi thi dau vong 15",Da thi hanh,TP1412,TR466
-AP0258,"Tich luy du 3 the vang den vong 14 (the TP1420), dinh chi thi dau vong 15",Da thi hanh,TP1420,TR466
-AP0259,"Tich luy du 3 the vang den vong 14 (the TP1426), dinh chi thi dau vong 15",Da thi hanh,TP1426,TR469
-AP0260,"Tich luy du 3 the vang den vong 15 (the TP1432), dinh chi thi dau vong 16",Da thi hanh,TP1432,TR473
-AP0261,"Nhan the do truc tiep o vong 15 (tran TR465), dinh chi thi dau vong 16",Da thi hanh,TP1433,TR473
-AP0262,"Tich luy du 3 the vang den vong 15 (the TP1445), dinh chi thi dau vong 16",Da thi hanh,TP1445,TR473
-AP0263,"Nhan the do truc tiep o vong 15 (tran TR468), dinh chi thi dau vong 16",Da thi hanh,TP1449,TR474
-AP0264,"Tich luy du 3 the vang den vong 15 (the TP1450), dinh chi thi dau vong 16",Da thi hanh,TP1450,TR476
-AP0265,"Tich luy du 3 the vang den vong 16 (the TP1453), dinh chi thi dau vong 17",Da thi hanh,TP1453,TR478
-AP0266,"Tich luy du 3 the vang den vong 16 (the TP1458), dinh chi thi dau vong 17",Da thi hanh,TP1458,TR480
-AP0267,"Tich luy du 3 the vang den vong 16 (the TP1459), dinh chi thi dau vong 17",Da thi hanh,TP1459,TR480
-AP0268,"Nhan the do truc tiep o vong 16 (tran TR473), dinh chi thi dau vong 17",Da thi hanh,TP1463,TR479
-AP0269,"Tich luy du 3 the vang den vong 16 (the TP1472), dinh chi thi dau vong 17",Da thi hanh,TP1472,TR481
-AP0270,"Tich luy du 3 the vang den vong 16 (the TP1473), dinh chi thi dau vong 17",Da thi hanh,TP1473,TR483
-AP0271,"Tich luy du 3 the vang den vong 16 (the TP1476), dinh chi thi dau vong 17",Da thi hanh,TP1476,TR483
-AP0272,"Nhan the do truc tiep o vong 17 (tran TR477), dinh chi thi dau vong 18",Da thi hanh,TP1477,TR484
-AP0273,"Nhan the do truc tiep o vong 17 (tran TR477), dinh chi thi dau vong 18",Da thi hanh,TP1478,TR485
-AP0274,"Tich luy du 3 the vang den vong 17 (the TP1479), dinh chi thi dau vong 18",Da thi hanh,TP1479,TR486
-AP0275,"Tich luy du 3 the vang den vong 17 (the TP1481), dinh chi thi dau vong 18",Da thi hanh,TP1481,TR487
-AP0276,"Tich luy du 3 the vang den vong 17 (the TP1482), dinh chi thi dau vong 18",Da thi hanh,TP1482,TR488
-AP0277,"Tich luy du 3 the vang den vong 17 (the TP1489), dinh chi thi dau vong 18",Da thi hanh,TP1489,TR489
-AP0278,"Tich luy du 3 the vang den vong 17 (the TP1493), dinh chi thi dau vong 18",Da thi hanh,TP1493,TR490
-AP0279,"Tich luy du 3 the vang den vong 17 (the TP1494), dinh chi thi dau vong 18",Da thi hanh,TP1494,TR490
-AP0280,"Nhan the do truc tiep o vong 17 (tran TR482), dinh chi thi dau vong 18",Da thi hanh,TP1495,TR490
-AP0281,"Tich luy du 3 the vang den vong 17 (the TP1497), dinh chi thi dau vong 18",Da thi hanh,TP1497,TR490
-AP0282,"Tich luy du 3 the vang den vong 18 (the TP1501), dinh chi thi dau vong 19",Da thi hanh,TP1501,TR491
-AP0283,"Tich luy du 3 the vang den vong 18 (the TP1511), dinh chi thi dau vong 19",Da thi hanh,TP1511,TR494
-AP0284,"Nhan the do truc tiep o vong 18 (tran TR490), dinh chi thi dau vong 19",Da thi hanh,TP1517,TR497
-AP0285,"Tich luy du 3 the vang den vong 19 (the TP1518), dinh chi thi dau vong 20",Da thi hanh,TP1518,TR498
-AP0286,"Nhan the do truc tiep o vong 19 (tran TR491), dinh chi thi dau vong 20",Da thi hanh,TP1520,TR498
-AP0287,"Tich luy du 3 the vang den vong 19 (the TP1521), dinh chi thi dau vong 20",Da thi hanh,TP1521,TR499
-AP0288,"Tich luy du 3 the vang den vong 19 (the TP1523), dinh chi thi dau vong 20",Da thi hanh,TP1523,TR500
-AP0289,"Tich luy du 3 the vang den vong 19 (the TP1524), dinh chi thi dau vong 20",Da thi hanh,TP1524,TR500
-AP0290,"Tich luy du 3 the vang den vong 19 (the TP1528), dinh chi thi dau vong 20",Da thi hanh,TP1528,TR501
-AP0291,"Tich luy du 3 the vang den vong 19 (the TP1540), dinh chi thi dau vong 20",Da thi hanh,TP1540,TR502
-AP0292,"Tich luy du 3 the vang den vong 20 (the TP1547), dinh chi thi dau vong 21",Da thi hanh,TP1547,TR507
-AP0293,"Nhan the do truc tiep o vong 20 (tran TR499), dinh chi thi dau vong 21",Da thi hanh,TP1548,TR507
-AP0294,"Tich luy du 3 the vang den vong 20 (the TP1549), dinh chi thi dau vong 21",Da thi hanh,TP1549,TR506
-AP0295,"Tich luy du 3 the vang den vong 20 (the TP1551), dinh chi thi dau vong 21",Da thi hanh,TP1551,TR508
-AP0296,"Nhan the do truc tiep o vong 20 (tran TR500), dinh chi thi dau vong 21",Da thi hanh,TP1552,TR508
-AP0297,"Tich luy du 3 the vang den vong 20 (the TP1554), dinh chi thi dau vong 21",Da thi hanh,TP1554,TR507
-AP0298,"Tich luy du 3 the vang den vong 20 (the TP1556), dinh chi thi dau vong 21",Da thi hanh,TP1556,TR509
-AP0299,"Tich luy du 3 the vang den vong 20 (the TP1562), dinh chi thi dau vong 21",Da thi hanh,TP1562,TR511
-AP0300,"Nhan the do truc tiep o vong 20 (tran TR503), dinh chi thi dau vong 21",Da thi hanh,TP1564,TR511
-AP0301,"Tich luy du 3 the vang den vong 21 (the TP1570), dinh chi thi dau vong 22",Da thi hanh,TP1570,TR514
-AP0302,"Tich luy du 3 the vang den vong 21 (the TP1575), dinh chi thi dau vong 22",Da thi hanh,TP1575,TR515
-AP0303,"Nhan the do truc tiep o vong 21 (tran TR507), dinh chi thi dau vong 22",Da thi hanh,TP1576,TR515
-AP0304,"Tich luy du 3 the vang den vong 21 (the TP1577), dinh chi thi dau vong 22",Da thi hanh,TP1577,TR513
-AP0305,"Tich luy du 3 the vang den vong 21 (the TP1579), dinh chi thi dau vong 22",Da thi hanh,TP1579,TR516
-AP0306,"Tich luy du 3 the vang den vong 21 (the TP1580), dinh chi thi dau vong 22",Da thi hanh,TP1580,TR516
-AP0307,"Tich luy du 3 the vang den vong 21 (the TP1582), dinh chi thi dau vong 22",Da thi hanh,TP1582,TR517
-AP0308,"Tich luy du 3 the vang den vong 21 (the TP1589), dinh chi thi dau vong 22",Da thi hanh,TP1589,TR518
-AP0309,"Nhan the do truc tiep o vong 22 (tran TR512), dinh chi thi dau vong 23",Da thi hanh,TP1592,TR519
-AP0310,"Tich luy du 3 the vang den vong 22 (the TP1597), dinh chi thi dau vong 23",Da thi hanh,TP1597,TR520
-AP0311,"Tich luy du 3 the vang den vong 22 (the TP1599), dinh chi thi dau vong 23",Da thi hanh,TP1599,TR521
-AP0312,"Nhan the do truc tiep o vong 22 (tran TR515), dinh chi thi dau vong 23",Da thi hanh,TP1601,TR521
-AP0313,"Tich luy du 3 the vang den vong 22 (the TP1604), dinh chi thi dau vong 23",Da thi hanh,TP1604,TR525
-AP0314,"Nhan the do truc tiep o vong 23 (tran TR519), dinh chi thi dau vong 24",Da thi hanh,TP1610,TR526
-AP0315,"Tich luy du 3 the vang den vong 23 (the TP1613), dinh chi thi dau vong 24",Da thi hanh,TP1613,TR527
-AP0316,"Tich luy du 3 the vang den vong 23 (the TP1618), dinh chi thi dau vong 24",Da thi hanh,TP1618,TR529
-AP0317,"Tich luy du 3 the vang den vong 23 (the TP1624), dinh chi thi dau vong 24",Da thi hanh,TP1624,TR532
-AP0318,"Tich luy du 3 the vang den vong 24 (the TP1630), dinh chi thi dau vong 25",Da thi hanh,TP1630,TR533
-AP0319,"Tich luy du 3 the vang den vong 24 (the TP1632), dinh chi thi dau vong 25",Da thi hanh,TP1632,TR534
-AP0320,"Tich luy du 3 the vang den vong 24 (the TP1633), dinh chi thi dau vong 25",Da thi hanh,TP1633,TR534
-AP0321,"Tich luy du 3 the vang den vong 24 (the TP1634), dinh chi thi dau vong 25",Da thi hanh,TP1634,TR534
-AP0322,"Tich luy du 3 the vang den vong 24 (the TP1642), dinh chi thi dau vong 25",Da thi hanh,TP1642,TR538
-AP0323,"Tich luy du 3 the vang den vong 24 (the TP1646), dinh chi thi dau vong 25",Da thi hanh,TP1646,TR539
-AP0324,"Tich luy du 3 the vang den vong 24 (the TP1647), dinh chi thi dau vong 25",Da thi hanh,TP1647,TR539
-AP0325,"Nhan the do truc tiep o vong 25 (tran TR533), dinh chi thi dau vong 26",Da thi hanh,TP1651,TR540
-AP0326,"Tich luy du 3 the vang den vong 25 (the TP1654), dinh chi thi dau vong 26",Da thi hanh,TP1654,TR540
-AP0327,"Nhan the do truc tiep o vong 25 (tran TR536), dinh chi thi dau vong 26",Da thi hanh,TP1660,TR542
-AP0328,"Tich luy du 3 the vang den vong 25 (the TP1661), dinh chi thi dau vong 26",Da thi hanh,TP1661,TR545
-AP0329,"Tich luy du 3 the vang den vong 25 (the TP1664), dinh chi thi dau vong 26",Da thi hanh,TP1664,TR546
+ma_an_phat,trang_thai,ma_the,id_tran
+AP0001,Da thi hanh,TP0006,TR008
+AP0002,Da thi hanh,TP0035,TR019
+AP0003,Da thi hanh,TP0051,TR024
+AP0004,Da thi hanh,TP0060,TR030
+AP0005,Da thi hanh,TP0068,TR031
+AP0006,Da thi hanh,TP0097,TR036
+AP0007,Da thi hanh,TP0136,TR052
+AP0008,Da thi hanh,TP0167,TR062
+AP0009,Da thi hanh,TP0197,TR072
+AP0010,Da thi hanh,TP0207,TR074
+AP0011,Da thi hanh,TP0220,TR079
+AP0012,Da thi hanh,TP0255,TR093
+AP0013,Da thi hanh,TP0256,TR094
+AP0014,Da thi hanh,TP0298,TR106
+AP0015,Da thi hanh,TP0300,TR107
+AP0016,Da thi hanh,TP0366,TR129
+AP0017,Da thi hanh,TP0373,TR132
+AP0018,Da thi hanh,TP0385,TR136
+AP0019,Da thi hanh,TP0398,TR140
+AP0020,Da thi hanh,TP0482,TR165
+AP0021,Da thi hanh,TP0488,TR170
+AP0022,Da thi hanh,TP0501,TR177
+AP0023,Da thi hanh,TP0514,TR182
+AP0024,Da thi hanh,TP0547,TR192
+AP0025,Da thi hanh,TP0552,TR194
+AP0026,Da thi hanh,TP0577,TR203
+AP0027,Da thi hanh,TP0652,TR225
+AP0028,Da thi hanh,TP0654,TR227
+AP0029,Da thi hanh,TP0677,TR233
+AP0030,Da thi hanh,TP0703,TR245
+AP0031,Da thi hanh,TP0738,TR256
+AP0032,Da thi hanh,TP0744,TR256
+AP0033,Da thi hanh,TP0786,TR269
+AP0034,Da thi hanh,TP0828,TR283
+AP0035,Da thi hanh,TP0830,TR285
+AP0036,Da thi hanh,TP0865,TR296
+AP0037,Da thi hanh,TP0889,TR305
+AP0038,Da thi hanh,TP0906,TR313
+AP0039,Da thi hanh,TP0907,TR312
+AP0040,Da thi hanh,TP0910,TR313
+AP0041,Da thi hanh,TP0923,TR319
+AP0042,Da thi hanh,TP0937,TR323
+AP0043,Da thi hanh,TP0947,TR327
+AP0044,Da thi hanh,TP0950,TR326
+AP0045,Da thi hanh,TP0977,TR336
+AP0046,Da thi hanh,TP1029,TR350
+AP0047,Da thi hanh,TP1093,TR372
+AP0048,Da thi hanh,TP1114,TR376
+AP0049,Da thi hanh,TP1128,TR382
+AP0050,Da thi hanh,TP1145,TR384
+AP0051,Da thi hanh,TP1161,TR388
+AP0052,Da thi hanh,TP1163,TR391
+AP0053,Da thi hanh,TP1170,TR394
+AP0054,Da thi hanh,TP1182,TR396
+AP0055,Da thi hanh,TP1197,TR399
+AP0056,Da thi hanh,TP1213,TR406
+AP0057,Da thi hanh,TP1218,TR405
+AP0058,Da thi hanh,TP1250,TR415
+AP0059,Da thi hanh,TP1310,TR433
+AP0060,Da thi hanh,TP1336,TR440
+AP0061,Da thi hanh,TP1338,TR441
+AP0062,Da thi hanh,TP1368,TR451
+AP0063,Da thi hanh,TP1393,TR459
+AP0064,Da thi hanh,TP1433,TR473
+AP0065,Da thi hanh,TP1449,TR474
+AP0066,Da thi hanh,TP1463,TR479
+AP0067,Da thi hanh,TP1477,TR484
+AP0068,Da thi hanh,TP1478,TR485
+AP0069,Da thi hanh,TP1495,TR490
+AP0070,Da thi hanh,TP1517,TR497
+AP0071,Da thi hanh,TP1520,TR498
+AP0072,Da thi hanh,TP1548,TR507
+AP0073,Da thi hanh,TP1552,TR508
+AP0074,Da thi hanh,TP1564,TR511
+AP0075,Da thi hanh,TP1576,TR515
+AP0076,Da thi hanh,TP1592,TR519
+AP0077,Da thi hanh,TP1601,TR521
+AP0078,Da thi hanh,TP1610,TR526
+AP0079,Da thi hanh,TP1651,TR540
+AP0080,Da thi hanh,TP1660,TR542
