@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS quan_ly_giai_bong_da;
 CREATE DATABASE quan_ly_giai_bong_da
   CHARACTER SET utf8mb4
   COLLATE utf8mb4_unicode_ci;
 
+SET GLOBAL local_infile = 1;
 USE quan_ly_giai_bong_da;
 
 -- 1. Mùa giải
@@ -55,22 +55,21 @@ CREATE TABLE hop_dong_hlv (
     id_hlv VARCHAR(20) NOT NULL,
     ma_doi_bong VARCHAR(20) NOT NULL,
     ma_mua_giai VARCHAR(20) NOT NULL,
+    CONSTRAINT chk_ngay_hd_hlv CHECK (ngay_ket_thuc >= ngay_bat_dau),
     CONSTRAINT fk_hdhlv_hlv FOREIGN KEY (id_hlv) REFERENCES hlv(id_hlv),
     CONSTRAINT fk_hdhlv_clb FOREIGN KEY (ma_doi_bong) REFERENCES cau_lac_bo(ma_doi_bong),
     CONSTRAINT fk_hdhlv_mg FOREIGN KEY (ma_mua_giai) REFERENCES mua_giai(ma_mua_giai)
 );
 
--- 6. Bảng xếp hạng
+-- 6. Bảng xếp hạng (Đã loại bỏ thu_hang và diem để đạt chuẩn 3NF)
 CREATE TABLE bang_xep_hang (
     ma_bxh VARCHAR(30) PRIMARY KEY,
     vong_dau INT NOT NULL,
-    thu_hang INT NOT NULL,
     so_tran_thang INT DEFAULT 0,
     so_tran_hoa INT DEFAULT 0,
     so_tran_thua INT DEFAULT 0,
     so_ban_thang INT DEFAULT 0,
     so_ban_thua INT DEFAULT 0,
-    diem INT DEFAULT 0,
     ma_mua_giai VARCHAR(20) NOT NULL,
     ma_doi_bong VARCHAR(20) NOT NULL,
     CONSTRAINT fk_bxh_mg FOREIGN KEY (ma_mua_giai) REFERENCES mua_giai(ma_mua_giai),
@@ -102,7 +101,7 @@ CREATE TABLE chuyen_nhuong (
     CONSTRAINT chk_cn_doi CHECK (doi_chuyen_di <> doi_chuyen_den)
 );
 
--- 9. Đăng ký cầu thủ (Có CHECK so_ao [1, 99] và UNIQUE (ma_mua_giai, ma_doi_bong, so_ao))
+-- 9. Đăng ký cầu thủ
 CREATE TABLE dang_ky_cau_thu (
     ma_dang_ky VARCHAR(20) PRIMARY KEY,
     so_ao INT NOT NULL,
@@ -129,7 +128,7 @@ CREATE TABLE trong_tai (
     kinh_nghiem INT DEFAULT 0
 );
 
--- 11. Trận đấu (Có CHECK doi_nha <> doi_khach)
+-- 11. Trận đấu
 CREATE TABLE tran_dau (
     id_tran VARCHAR(20) PRIMARY KEY,
     ten_tran VARCHAR(255) NOT NULL,
@@ -182,7 +181,7 @@ CREATE TABLE chan_thuong (
     CONSTRAINT fk_cth_dk FOREIGN KEY (ma_dang_ky) REFERENCES dang_ky_cau_thu(ma_dang_ky)
 );
 
--- 15. Bàn thắng (Có CHECK phut_ghi_ban [1, 120])
+-- 15. Bàn thắng
 CREATE TABLE ban_thang (
     ma_ban_thang VARCHAR(20) PRIMARY KEY,
     loai_ban_thang VARCHAR(50) NOT NULL,
@@ -240,8 +239,10 @@ CREATE TABLE tham_gia_tran_dau (
     CONSTRAINT fk_tgtd_dk FOREIGN KEY (ma_dang_ky) REFERENCES dang_ky_cau_thu(ma_dang_ky),
     CONSTRAINT fk_tgtd_tran FOREIGN KEY (id_tran) REFERENCES tran_dau(id_tran)
 );
-USE quan_ly_giai_bong_da;
 
+-- =================================================================
+-- IMPORT DỮ LIỆU CSV
+-- =================================================================
 SET FOREIGN_KEY_CHECKS = 0;
 
 LOAD DATA LOCAL INFILE 'D:/PROJECT/20. Quản lý Giải đấu Bóng đá Chuyên nghiệp/vleague_3_mua_26_vong_toan_dien/01_mua_giai.csv'
@@ -303,6 +304,14 @@ INTO TABLE chi_dao_tran_dau FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' 
 LOAD DATA LOCAL INFILE 'D:/PROJECT/20. Quản lý Giải đấu Bóng đá Chuyên nghiệp/vleague_3_mua_26_vong_toan_dien/19_tham_gia_tran_dau.csv'
 INTO TABLE tham_gia_tran_dau FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
 
+-- Bật lại kiểm tra khóa ngoại sau khi import xong
+SET FOREIGN_KEY_CHECKS = 1;
+
+-- =================================================================
+-- TRIGGER XỬ LÝ BUSINESS RULES
+-- =================================================================
+DELIMITER //
+
 CREATE TRIGGER trg_auto_an_phat_sau_the
 AFTER INSERT ON the_phat
 FOR EACH ROW
@@ -348,7 +357,7 @@ BEGIN
             );
         END IF;
     END IF;
-END;
+END //
 
 CREATE TRIGGER trg_chan_cau_thu_bi_treo_gio
 BEFORE INSERT ON tham_gia_tran_dau
@@ -366,7 +375,7 @@ BEGIN
         SIGNAL SQLSTATE '45000'
         SET MESSAGE_TEXT = 'Loi nghiep vu: Cau thu dang bi dinh chi thi dau (treo gio) o tran dau nay!';
     END IF;
-END;
+END //
 
 CREATE TRIGGER trg_gioi_han_2_clb_mot_mua_insert
 BEFORE INSERT ON dang_ky_cau_thu
@@ -384,7 +393,7 @@ BEGIN
         SIGNAL SQLSTATE '45000'
         SET MESSAGE_TEXT = 'Loi nghiep vu: Mot cau thu khong duoc thi dau cho qua 2 CLB trong cung mot mua giai!';
     END IF;
-END;
+END //
 
 CREATE TRIGGER trg_gioi_han_2_clb_mot_mua_update
 BEFORE UPDATE ON dang_ky_cau_thu
@@ -403,7 +412,6 @@ BEGIN
         SIGNAL SQLSTATE '45000'
         SET MESSAGE_TEXT = 'Loi nghiep vu: Mot cau thu khong duoc thi dau cho qua 2 CLB trong cung mot mua giai!';
     END IF;
-END;
+END //
 
-
-
+DELIMITER ;
